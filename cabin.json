@@ -37,11 +37,13 @@
          "opacity":1,
          "properties":
             {
-             "jitsiRoom":"cabin-01"
+             "jitsiRoom":"cabin-01",
+             "jitsiTrigger":"onaction"
             },
          "propertytypes":
             {
-             "jitsiRoom":"string"
+             "jitsiRoom":"string",
+             "jitsiTrigger":"string"
             },
          "type":"tilelayer",
          "visible":true,
@@ -56,11 +58,13 @@
          "opacity":1,
          "properties":
             {
-             "jitsiRoom":"cabin-02"
+             "jitsiRoom":"cabin-02",
+             "jitsiTrigger":"onaction"
             },
          "propertytypes":
             {
-             "jitsiRoom":"string"
+             "jitsiRoom":"string",
+             "jitsiTrigger":"string"
             },
          "type":"tilelayer",
          "visible":true,
