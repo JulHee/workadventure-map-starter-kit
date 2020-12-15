@@ -19,7 +19,7 @@
          "properties":[{
            "name":"exitSceneUrl",
            "type":"string",
-           "value":"https:\/\/n0rc.github.io\/workadventure-maps\/snow.json#entryCabin",
+           "value":"https:\/\/n0rc.github.io\/workadventure-maps\/snow.json#entryCabin"
          }],
          "type":"tilelayer",
          "visible":true,
