@@ -16,14 +16,11 @@
          "height":22,
          "name":"quit_map",
          "opacity":1,
-         "properties":
-            {
-             "exitSceneUrl":"https:\/\/n0rc.github.io\/workadventure-maps\/snow.json"
-            },
-         "propertytypes":
-            {
-             "exitSceneUrl":"string"
-            },
+         "properties":[{
+           "name":"exitSceneUrl",
+           "type":"string",
+           "value":"https:\/\/n0rc.github.io\/workadventure-maps\/snow.json#entryCabin",
+         }],
          "type":"tilelayer",
          "visible":true,
          "width":22,
