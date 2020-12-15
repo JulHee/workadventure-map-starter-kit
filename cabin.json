@@ -222,10 +222,6 @@
                 {
                  "collides":true
                 },
-             "44":
-                {
-                 "collides":false
-                },
              "46":
                 {
                  "collides":true
@@ -237,10 +233,6 @@
              "5":
                 {
                  "collides":true
-                },
-             "53":
-                {
-                 "collides":false
                 },
              "54":
                 {
@@ -274,10 +266,6 @@
                 {
                  "collides":true
                 },
-             "70":
-                {
-                 "collides":false
-                },
              "71":
                 {
                  "collides":true
@@ -285,18 +273,6 @@
              "72":
                 {
                  "collides":true
-                },
-             "73":
-                {
-                 "collides":false
-                },
-             "74":
-                {
-                 "collides":false
-                },
-             "76":
-                {
-                 "collides":false
                 },
              "77":
                 {
@@ -329,10 +305,6 @@
              "85":
                 {
                  "collides":true
-                },
-             "86":
-                {
-                 "collides":false
                 },
              "94":
                 {
@@ -385,10 +357,6 @@
                 {
                  "collides":"bool"
                 },
-             "44":
-                {
-                 "collides":"bool"
-                },
              "46":
                 {
                  "collides":"bool"
@@ -398,10 +366,6 @@
                  "collides":"bool"
                 },
              "5":
-                {
-                 "collides":"bool"
-                },
-             "53":
                 {
                  "collides":"bool"
                 },
@@ -437,27 +401,11 @@
                 {
                  "collides":"bool"
                 },
-             "70":
-                {
-                 "collides":"bool"
-                },
              "71":
                 {
                  "collides":"bool"
                 },
              "72":
-                {
-                 "collides":"bool"
-                },
-             "73":
-                {
-                 "collides":"bool"
-                },
-             "74":
-                {
-                 "collides":"bool"
-                },
-             "76":
                 {
                  "collides":"bool"
                 },
@@ -490,10 +438,6 @@
                  "collides":"bool"
                 },
              "85":
-                {
-                 "collides":"bool"
-                },
-             "86":
                 {
                  "collides":"bool"
                 },
@@ -549,122 +493,6 @@
                 {
                  "collides":true
                 },
-             "118":
-                {
-                 "collides":false
-                },
-             "119":
-                {
-                 "collides":false
-                },
-             "123":
-                {
-                 "collides":false
-                },
-             "124":
-                {
-                 "collides":false
-                },
-             "125":
-                {
-                 "collides":false
-                },
-             "126":
-                {
-                 "collides":false
-                },
-             "127":
-                {
-                 "collides":false
-                },
-             "131":
-                {
-                 "collides":false
-                },
-             "132":
-                {
-                 "collides":false
-                },
-             "133":
-                {
-                 "collides":false
-                },
-             "134":
-                {
-                 "collides":false
-                },
-             "135":
-                {
-                 "collides":false
-                },
-             "139":
-                {
-                 "collides":false
-                },
-             "140":
-                {
-                 "collides":false
-                },
-             "141":
-                {
-                 "collides":false
-                },
-             "142":
-                {
-                 "collides":false
-                },
-             "143":
-                {
-                 "collides":false
-                },
-             "148":
-                {
-                 "collides":false
-                },
-             "149":
-                {
-                 "collides":false
-                },
-             "150":
-                {
-                 "collides":false
-                },
-             "151":
-                {
-                 "collides":false
-                },
-             "156":
-                {
-                 "collides":false
-                },
-             "157":
-                {
-                 "collides":false
-                },
-             "158":
-                {
-                 "collides":false
-                },
-             "159":
-                {
-                 "collides":false
-                },
-             "164":
-                {
-                 "collides":false
-                },
-             "165":
-                {
-                 "collides":false
-                },
-             "166":
-                {
-                 "collides":false
-                },
-             "167":
-                {
-                 "collides":false
-                },
              "168":
                 {
                  "collides":true
@@ -717,14 +545,6 @@
                 {
                  "collides":true
                 },
-             "190":
-                {
-                 "collides":false
-                },
-             "191":
-                {
-                 "collides":false
-                },
              "195":
                 {
                  "collides":true
@@ -732,38 +552,6 @@
              "196":
                 {
                  "collides":true
-                },
-             "198":
-                {
-                 "collides":false
-                },
-             "199":
-                {
-                 "collides":false
-                },
-             "205":
-                {
-                 "collides":false
-                },
-             "206":
-                {
-                 "collides":false
-                },
-             "207":
-                {
-                 "collides":false
-                },
-             "213":
-                {
-                 "collides":false
-                },
-             "214":
-                {
-                 "collides":false
-                },
-             "215":
-                {
-                 "collides":false
                 },
              "24":
                 {
@@ -864,122 +652,6 @@
                 {
                  "collides":"bool"
                 },
-             "118":
-                {
-                 "collides":"bool"
-                },
-             "119":
-                {
-                 "collides":"bool"
-                },
-             "123":
-                {
-                 "collides":"bool"
-                },
-             "124":
-                {
-                 "collides":"bool"
-                },
-             "125":
-                {
-                 "collides":"bool"
-                },
-             "126":
-                {
-                 "collides":"bool"
-                },
-             "127":
-                {
-                 "collides":"bool"
-                },
-             "131":
-                {
-                 "collides":"bool"
-                },
-             "132":
-                {
-                 "collides":"bool"
-                },
-             "133":
-                {
-                 "collides":"bool"
-                },
-             "134":
-                {
-                 "collides":"bool"
-                },
-             "135":
-                {
-                 "collides":"bool"
-                },
-             "139":
-                {
-                 "collides":"bool"
-                },
-             "140":
-                {
-                 "collides":"bool"
-                },
-             "141":
-                {
-                 "collides":"bool"
-                },
-             "142":
-                {
-                 "collides":"bool"
-                },
-             "143":
-                {
-                 "collides":"bool"
-                },
-             "148":
-                {
-                 "collides":"bool"
-                },
-             "149":
-                {
-                 "collides":"bool"
-                },
-             "150":
-                {
-                 "collides":"bool"
-                },
-             "151":
-                {
-                 "collides":"bool"
-                },
-             "156":
-                {
-                 "collides":"bool"
-                },
-             "157":
-                {
-                 "collides":"bool"
-                },
-             "158":
-                {
-                 "collides":"bool"
-                },
-             "159":
-                {
-                 "collides":"bool"
-                },
-             "164":
-                {
-                 "collides":"bool"
-                },
-             "165":
-                {
-                 "collides":"bool"
-                },
-             "166":
-                {
-                 "collides":"bool"
-                },
-             "167":
-                {
-                 "collides":"bool"
-                },
              "168":
                 {
                  "collides":"bool"
@@ -1032,51 +704,11 @@
                 {
                  "collides":"bool"
                 },
-             "190":
-                {
-                 "collides":"bool"
-                },
-             "191":
-                {
-                 "collides":"bool"
-                },
              "195":
                 {
                  "collides":"bool"
                 },
              "196":
-                {
-                 "collides":"bool"
-                },
-             "198":
-                {
-                 "collides":"bool"
-                },
-             "199":
-                {
-                 "collides":"bool"
-                },
-             "205":
-                {
-                 "collides":"bool"
-                },
-             "206":
-                {
-                 "collides":"bool"
-                },
-             "207":
-                {
-                 "collides":"bool"
-                },
-             "213":
-                {
-                 "collides":"bool"
-                },
-             "214":
-                {
-                 "collides":"bool"
-                },
-             "215":
                 {
                  "collides":"bool"
                 },
